@@ -1,10 +1,9 @@
 # Connect-4 Clone with AI Integration
 
-This is a Connect-4 game built with React. The project is part of a learning module designed to help you understand core React concepts and build an interactive, multiplayer game with AI integration.
-
+This is a Connect-4 game built with React. 
 ## Project Overview
 
-In this project, you will build a multiplayer Connect-4 game with AI integration, using React for a dynamic and interactive UI. By the end, the app will feature:
+In this project,  a multiplayer Connect-4 game with AI integration, using React for a dynamic and interactive UI. By the end, the app will feature:
 
 - **Multiplayer and AI-powered single-player mode**
 - **Automatic winner detection** for both modes
